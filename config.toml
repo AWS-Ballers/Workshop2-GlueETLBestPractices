@@ -1,4 +1,4 @@
-baseURL = "https://aws-incident-response-automation-cdk.github.io/aws-incident-response-automation-workshop/"
+baseURL = "https://aws-ballers.github.io/Workshop2-GlueETLBestPractices/"
 relativeURLs = true
 canonifyURLs = true
 
